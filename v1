@@ -1,5 +1,5 @@
-local linkvertise = 'https://bit.ly/3Ph4RwW';
-local key = game:HttpGet'https://pastebin.com/raw/fFHiwNQT';
+local linkvertise = 'https://bit.ly/3ppKlzT';
+local key = game:HttpGet'https://pastebin.com/raw/r8g0j8s3';
 -- script goes in here
 local thescript = [[
     loadstring(game:HttpGet("https://raw.githubusercontent.com/pokelok/AlphaHubkey/main/main"))()
